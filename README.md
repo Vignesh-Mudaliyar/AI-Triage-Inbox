@@ -6,7 +6,7 @@ draft reply. The AI is **assistive** — the user always stays in control.
 
 > Written as a take-home for the Qoala interview process.
 > Time spent: **~15h** (see [`TIMELOG.md`](./TIMELOG.md)).
-> Demo: _add Vercel URL after `npx vercel --prod`_
+> Demo: <https://ai-triage-inbox-no4y82jfk-vignesh-mudaliyars-projects.vercel.app/>
 
 ---
 
